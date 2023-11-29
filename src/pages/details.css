@@ -1,0 +1,39 @@
+
+.details{
+    
+    min-height:87vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: darkblue;
+    margin:0;
+    padding:0;
+
+}
+.container{
+    display: fluid;
+    margin:0;
+    padding:0;
+    justify-content: center;
+    border:none;
+    border-radius: 3px;
+    background:transparent ;
+    width:fluid;
+    
+}
+.table{
+    border:3px;
+    width:100%;
+    border-color: solid rgb(3, 25, 32);
+    border-radius: 0px;
+    
+
+
+}
+
+
+.btn:hover{
+    color:rgb(55, 255, 0);
+}
